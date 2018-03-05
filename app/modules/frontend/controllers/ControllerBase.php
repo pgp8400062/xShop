@@ -21,7 +21,7 @@ class ControllerBase extends Controller
             $extra = new \stdClass();
         }
         $response = ['flag' => $flag, 'msg' => $msg, 'data' => $data, 'extra' => $extra];
-        echo $response;exit;
+        echo json_encode($response);exit;
     }
 
     /**

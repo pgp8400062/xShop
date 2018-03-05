@@ -9,7 +9,6 @@
 namespace XShop\Modules\Frontend\Services\User;
 
 use XShop\Library\OpensslUtil;
-use XShop\Models\User;
 use XShop\Modules\Frontend\Services\User\Exceptions\LoginException;
 
 class LoginBehavior
