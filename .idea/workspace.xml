@@ -31,11 +31,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Order.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Order.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/modules/frontend/services/Order/Order.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="78">
               <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/docs/db/db.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="103" column="30" lean-forward="true" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -99,18 +109,6 @@
             <state relative-caret-position="130">
               <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Info.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/modules/frontend/services/User/Info.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="47" />
-              <folding>
-                <element signature="e#143#165#0#PHP" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -179,6 +177,7 @@
         <option value="$PROJECT_DIR$/app/modules/frontend/services/Order/OrderWaitPay.php" />
         <option value="$PROJECT_DIR$/app/modules/frontend/services/Order/Exceptions/OrderException.php" />
         <option value="$PROJECT_DIR$/app/modules/frontend/services/Order/Order.php" />
+        <option value="$PROJECT_DIR$/public/docs/db/db.sql" />
       </list>
     </option>
   </component>
@@ -227,103 +226,18 @@
             <path>
               <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="common" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="common" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="library" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="common" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="models" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="repos" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="services" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="services" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Order" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="services" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Order" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Exceptions" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="modules" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="frontend" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="services" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="User" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cache" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xShop" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="public" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="xShop" type="b2602c69:ProjectViewProjectNode" />
@@ -409,12 +323,12 @@
       <workItem from="1520089804368" duration="11644000" />
       <workItem from="1520173138078" duration="58000" />
       <workItem from="1520173216956" duration="205000" />
-      <workItem from="1520173467181" duration="9404000" />
+      <workItem from="1520173467181" duration="10337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24265000" />
+    <option name="totallyTimeSpent" value="25198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
@@ -453,13 +367,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../phalcon-devtools/ide/gen-stubs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php" />
     <entry file="file://$PROJECT_DIR$/../phalcon-devtools/ide/3.3.0/Phalcon/Loader.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -811,6 +718,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/docs/db/db.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="103" column="30" lean-forward="true" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
           <folding />
         </state>
       </provider>
