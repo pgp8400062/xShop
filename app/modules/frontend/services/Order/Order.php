@@ -1,6 +1,8 @@
 <?php
 namespace XShop\Modules\Frontend\Services\Order;
 
+use XShop\Modules\Frontend\Services\User\Exceptions\OrderException;
+
 class Order
 {
     /**
